@@ -1,0 +1,13 @@
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.csprojAssemblyReference.cache
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.AssemblyInfoInputs.cache
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.AssemblyInfo.cs
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.csproj.CoreCompileInputs.cache
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\bin\Debug\netcoreapp3.1\formulario.exe
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\bin\Debug\netcoreapp3.1\formulario.deps.json
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\bin\Debug\netcoreapp3.1\formulario.runtimeconfig.json
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\bin\Debug\netcoreapp3.1\formulario.runtimeconfig.dev.json
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\bin\Debug\netcoreapp3.1\formulario.dll
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\bin\Debug\netcoreapp3.1\formulario.pdb
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.dll
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.pdb
+C:\Users\Alexi\Desktop\Base de Datos\formulario\formulario\obj\Debug\netcoreapp3.1\formulario.genruntimeconfig.cache
